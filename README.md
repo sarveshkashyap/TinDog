@@ -1,2 +1,1 @@
-# TinDog
-Website for Pet food.
+TinDog Starting Files
